@@ -1,4 +1,4 @@
-# Finance Notebooks — Kaggle-Ready Tutorials
+# Finance Notebooks — Tutorials
 
 **Who is this for?**  
 - **Track A (Finance → Code):** finance students who want a practical Python toolkit (pandas, numpy, matplotlib) to analyze returns and risk.  
