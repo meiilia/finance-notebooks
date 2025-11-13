@@ -1,3 +1,6 @@
 numpy
 pandas
 matplotlib
+edhec_risk_kit
+seaborn
+scipy.stats
